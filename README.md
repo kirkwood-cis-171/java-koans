@@ -1,5 +1,26 @@
 #Java Koans [![Build Status](https://travis-ci.org/matyb/java-koans.png?branch=master)](https://travis-ci.org/matyb/java-koans)
 
+CIS 171 Instructions:
+=====================
+
+On Windows open Git Bash
+
+On MAC open Terminal.app
+
+Then cd to the koans folder,
+
+```
+cd ~/Code/java-koans/koans
+```
+
+Then run the script
+
+```
+./run.sh
+```
+
+You should now be able to opne java-koans in IntelliJ
+
 Running Instructions:
 =====================
 * Download and unarchive the contents of the most recent java-koans in development from:
